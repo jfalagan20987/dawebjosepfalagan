@@ -1,5 +1,2 @@
 Esto es una prueba para testear git reset
 ---DAWEB Josep Falagán---
-
-
----CAMBIOS PARA PROBAR GIT RESET HARD---
